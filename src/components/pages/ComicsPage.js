@@ -5,7 +5,7 @@ import ComicsList from "../comicsList/ComicsList";
 const ComicsPage = () => {
     return (
         <>
-            ,<Helmet>
+            <Helmet>
             <meta
                 name="description"
                 content="Page with list of our comics"
